@@ -3,3 +3,11 @@
 ################################################################################
 
 /src/.vs/LoadingIndicator.XP/v17
+/src/LoadingIndicator.Demo/bin/Debug
+/src/LoadingIndicator.Demo/obj/Debug
+/src/LoadingIndicator.XP/.vs/LoadingIndicator.XP/v17
+/src/LoadingIndicator.XP/bin/Debug
+/src/LoadingIndicator.XP/obj/Debug
+/src/LoadingIndicator.XP/packages/JetBrains.Annotations.2021.3.0
+/src/packages/JetBrains.Annotations.2021.3.0
+*.user
